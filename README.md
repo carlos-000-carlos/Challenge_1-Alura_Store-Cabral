@@ -1,15 +1,20 @@
 <h1 align="center" > 
-	Projeto: Challenge-Amigo-Secreto (Alura + ONE)
-<br><br><img src="https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/blob/nain/assets/sorteio-amigo-oculto.png" width="75%">
+	Projeto: Challenge_1-Alura_Store_BR (Alura + ONE)
+<br><br><img src="https://github.com/carlos-000-carlos/Challenge_1-Alura_Store-Cabral/blob/main/Images/logo_data_science.jpeg" width="75%">
 </h1>
 
 <br><h2> 🧑‍💻 Sobre o projeto </h2>
 
-Esse projeto consiste em uma aplicação onde usuários possam inserir nomes de amigos, e que, ao final da inserção os mesmos consigam obter o nome do "amigo secreto", aleatoriamente aravés de um sorteio.
+Esse projeto consiste em aplicar na prática os seguintes conceitos da trilha Fundamentos de Python e Dados G9 - ONE:
+-    Realizar o carregamento e manipulação dos dados de arquivos CSV utilizando a biblioteca Pandas;
+-    Aplicar os conceitos aprendidos durante a trilha para criar visualizações gráficas dos dados através da biblioteca Matplotlib;
+-    Fazer a análise de certas métricas como faturamento, avaliações e desempenho de vendas.
+
+O propósito deste desafio, será nada mais que ajudar um senhor chamado João a tomar uma decisão de venda de uma de suas lojasda sua rede Alura Store, para iniciar um novo empreendimento. Então, iremos analisar os dados de vendas, desempenho e avaliações das 4 lojas fictícias da Alura Store. O objetivo principal é identificar a loja com menor eficiência e apresentar uma recomendação final baseada nos dados analisados.
 
 <br>![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-<br><h2> :hammer: Funcionalidades: </h2>
+<br><h2> :hammer: Etapas da Análise: </h2>
 
 1) Adicionar nomes de amigos: Os usuários digitarão o nome de algum amigo dentro de um campo de texto e, esse nome será adicionado a uma lista que estará visível, quando clicarem no botão "Adicionar".
 
@@ -26,7 +31,7 @@ Esse projeto consiste em uma aplicação onde usuários possam inserir nomes de 
 
 <br><h2> 📁 Acesso ao projeto </h2>
 
-Fique á vontade para clonar esse projeto através do link: https://github.com/carlos-000-carlos/Challenge-Amigo-Secreto/archive/refs/heads/nain.zip.
+Fique á vontade para clonar esse projeto através do link: https://github.com/carlos-000-carlos/Challenge_1-Alura_Store-Cabral/archive/refs/heads/main.zip.
 
 <br><h2> 🛠️ Página da web do projeto </h2>
 
